@@ -107,3 +107,11 @@ header > ul {
 .text > .description {
     font: 300 1.15rem "Roboto";
 }
+
+button:hover {
+    cursor: pointer;
+}
+
+ul > li {
+    cursor: pointer;
+}
